@@ -1,5 +1,5 @@
-# startup
-startup funding
+# Indian startup Funding Analysis
+
 git clone <your-repo-url>
 cd <your-repo-directory>
 
